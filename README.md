@@ -1,4 +1,4 @@
-# OsuAvatarDownloader
+# OsuAvatarDownloader (Python 3.12.1)
 Download osu! user's avatar by inputting the username
 # How to use
 1. Install the [ossapi](https://github.com/tybug/ossapi) by using `pip install ossapi` 
